@@ -1,41 +1,5 @@
 <header class="fixed top-0 left-0 w-full bg-white shadow z-50">
-  <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
-    <div class="flex h-16 items-center justify-between">
-      <div class="flex items-center h-16">
-        <a href="{{ url('/') }}" class="flex items-center" style="margin-left: 72px;">
-          <img src="{{ asset('image/PPLG.png') }}" alt="Logo"
-               class="max-h-16 w-auto hover:scale-105 hover:shadow-lg transition-all duration-300">
-        </a>
-      </div>
-
-      <!-- Desktop Menu -->
-      <nav class="hidden md:flex gap-6">
-        <a href="#"
-           class="text-gray-500 hover:text-teal-600 transition-all duration-300 relative after:absolute after:left-1/2 after:-bottom-1 after:h-0.5 after:w-0 after:bg-teal-600 after:transition-all after:duration-300 after:content-[''] hover:after:left-0 hover:after:w-full after:origin-center hover:scale-105">
-          About
-        </a>
-        <a href="#"
-           class="text-gray-500 hover:text-teal-600 transition-all duration-300 relative after:absolute after:left-1/2 after:-bottom-1 after:h-0.5 after:w-0 after:bg-teal-600 after:transition-all after:duration-300 after:content-[''] hover:after:left-0 hover:after:w-full after:origin-center hover:scale-105">
-          Careers
-        </a>
-        <a href="#"
-           class="text-gray-500 hover:text-teal-600 transition-all duration-300 relative after:absolute after:left-1/2 after:-bottom-1 after:h-0.5 after:w-0 after:bg-teal-600 after:transition-all after:duration-300 after:content-[''] hover:after:left-0 hover:after:w-full after:origin-center hover:scale-105">
-          History
-        </a>
-        <a href="#"
-           class="text-gray-500 hover:text-teal-600 transition-all duration-300 relative after:absolute after:left-1/2 after:-bottom-1 after:h-0.5 after:w-0 after:bg-teal-600 after:transition-all after:duration-300 after:content-[''] hover:after:left-0 hover:after:w-full after:origin-center hover:scale-105">
-          Services
-        </a>
-        <a href="#"
-           class="text-gray-500 hover:text-teal-600 transition-all duration-300 relative after:absolute after:left-1/2 after:-bottom-1 after:h-0.5 after:w-0 after:bg-teal-600 after:transition-all after:duration-300 after:content-[''] hover:after:left-0 hover:after:w-full after:origin-center hover:scale-105">
-          Projects
-        </a>
-        <a href="#"
-           class="text-gray-500 hover:text-teal-600 transition-all duration-300 relative after:absolute after:left-1/2 after:-bottom-1 after:h-0.5 after:w-0 after:bg-teal-600 after:transition-all after:duration-300 after:content-[''] hover:after:left-0 hover:after:w-full after:origin-center hover:scale-105">
-          Blog
-        </a>
-      </nav>
-
+  
       <!-- Hamburger Button -->
       <button id="mobileBtn" class="md:hidden p-2 rounded bg-gray-100 focus:outline-none">
         <svg id="hamburgerIcon"

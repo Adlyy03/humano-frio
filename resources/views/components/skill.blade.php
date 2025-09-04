@@ -1,10 +1,8 @@
 <section class="py-12 bg-gray-900 text-gray-100 sm:py-12 lg:py-16">
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div class="max-w-xl mx-auto text-center xl:max-w-2xl">
-            <h2 class="text-3xl font-bold leading-tight text-gray-50 sm:text-4xl xl:text-5xl mb-6">We are just
-                getting started!</h2>
-            <p class="mb-4">We are creating a tool that helps you be more productive and efficient when building
-                websites and webapps</p>
+            <h2 class="text-3xl font-bold leading-tight text-gray-50 sm:text-4xl xl:text-5xl mb-6">Profil Nilai dan Cerita Tim</h2>
+            <p class="mb-4">Kami percaya pada kebersamaan, kerja cerdas, dan saling mendukung untuk mencapai hasil maksimal.</p>
 
         </div>
         <div
@@ -25,9 +23,8 @@
                             <ellipse cx="17" cy="16" rx="3" ry="3" transform="rotate(90 17 16)" stroke="#111827"
                                 stroke-width="2" stroke-linecap="round"></ellipse>
                         </svg>
-                        <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Realtime Collaboration</h3>
-                        <p class="mt-6 text-base text-gray-600">Collaborate in realtime with other editors in a
-                            project. See what othe editors are doing and edit even a simple text together</p>
+                        <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Kerja Cerdas</h3>
+                        <p class="mt-6 text-base text-gray-600">kita selalu bagi tugas dengan adil dan cerdas, biar semua anggota bisa fokus sama keahliannya dan hasilnya maksimal. ✨</p>
                     </div>
                 </div>
             </div>
@@ -46,9 +43,8 @@
                             d="M3 14C3 11.4412 3 10.1618 3.61994 9.28042C3.77954 9.05351 3.96572 8.85041 4.17372 8.6763C4.98164 8 6.15442 8 8.5 8H15.5C17.8456 8 19.0184 8 19.8263 8.6763C20.0343 8.85041 20.2205 9.05351 20.3801 9.28042C21 10.1618 21 11.4412 21 14C21 16.5588 21 17.8382 20.3801 18.7196C20.2205 18.9465 20.0343 19.1496 19.8263 19.3237C19.0184 20 17.8456 20 15.5 20H8.5C6.15442 20 4.98164 20 4.17372 19.3237C3.96572 19.1496 3.77954 18.9465 3.61994 18.7196C3 17.8382 3 16.5588 3 14Z"
                             stroke="#111827" stroke-width="2"></path>
                     </svg>
-                    <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">History of Edits</h3>
-                    <p class="mt-6 text-base text-gray-600">Go back and forth your history of changes and
-                        restore your designs to any point in time</p>
+                    <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Kebersamaan Nomor 1</h3>
+                    <p class="mt-6 text-base text-gray-600">buat kita, yang paling penting itu kebersamaan. setiap langkah selalu dipikirin bareng biar semua anggota nyaman. 🤗</p>
                 </div>
             </div>
             <div class="relative">
@@ -67,9 +63,8 @@
                             <ellipse cx="17" cy="16" rx="3" ry="3" transform="rotate(90 17 16)" stroke="#111827"
                                 stroke-width="2" stroke-linecap="round"></ellipse>
                         </svg>
-                        <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Integrations</h3>
-                        <p class="mt-6 text-base text-gray-600">Step up your designs and workflow with
-                            integrations with your favourite tools such as mailchimp, slack, jira etc</p>
+                        <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Selalu Upgrade Diri</h3>
+                        <p class="mt-6 text-base text-gray-600">tiap tugas kita jadikan kesempatan buat belajar hal baru. nggak mau stuck, selalu berkembang bareng-bareng. 🚀</p>
                     </div>
                 </div>
             </div>
@@ -88,9 +83,8 @@
                             d="M3 14C3 11.4412 3 10.1618 3.61994 9.28042C3.77954 9.05351 3.96572 8.85041 4.17372 8.6763C4.98164 8 6.15442 8 8.5 8H15.5C17.8456 8 19.0184 8 19.8263 8.6763C20.0343 8.85041 20.2205 9.05351 20.3801 9.28042C21 10.1618 21 11.4412 21 14C21 16.5588 21 17.8382 20.3801 18.7196C20.2205 18.9465 20.0343 19.1496 19.8263 19.3237C19.0184 20 17.8456 20 15.5 20H8.5C6.15442 20 4.98164 20 4.17372 19.3237C3.96572 19.1496 3.77954 18.9465 3.61994 18.7196C3 17.8382 3 16.5588 3 14Z"
                             stroke="#111827" stroke-width="2"></path>
                     </svg>
-                    <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Publish webpage online</h3>
-                    <p class="mt-6 text-base text-gray-600">Effortlessly publish your webpages online and make
-                        it available to the world with a click of a button</p>
+                    <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Teamwork is Everything</h3>
+                    <p class="mt-6 text-base text-gray-600">kekuatan kelompok kita ada di kerja sama. saling support, nutupin kekurangan, dan terbuka sama ide-ide segar.🤝</p>
                 </div>
             </div>
             <div class="relative">
@@ -109,10 +103,9 @@
                             <ellipse cx="17" cy="16" rx="3" ry="3" transform="rotate(90 17 16)" stroke="#111827"
                                 stroke-width="2" stroke-linecap="round"></ellipse>
                         </svg>
-                        <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Forms and Data Collection
+                        <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Cerita Kami
                         </h3>
-                        <p class="mt-6 text-base text-gray-600">Collect data and information from users with
-                            forms built on windframe and sort through them in a nice interface</p>
+                        <p class="mt-6 text-base text-gray-600">awalnya dipertemukan di kelas, lalu bikin project bareng. dari situ lahir kekompakan dan semangat pantang menyerah. 📖</p>
                     </div>
                 </div>
             </div>
@@ -131,9 +124,8 @@
                             d="M3 14C3 11.4412 3 10.1618 3.61994 9.28042C3.77954 9.05351 3.96572 8.85041 4.17372 8.6763C4.98164 8 6.15442 8 8.5 8H15.5C17.8456 8 19.0184 8 19.8263 8.6763C20.0343 8.85041 20.2205 9.05351 20.3801 9.28042C21 10.1618 21 11.4412 21 14C21 16.5588 21 17.8382 20.3801 18.7196C20.2205 18.9465 20.0343 19.1496 19.8263 19.3237C19.0184 20 17.8456 20 15.5 20H8.5C6.15442 20 4.98164 20 4.17372 19.3237C3.96572 19.1496 3.77954 18.9465 3.61994 18.7196C3 17.8382 3 16.5588 3 14Z"
                             stroke="#111827" stroke-width="2"></path>
                     </svg>
-                    <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Custom Domains</h3>
-                    <p class="mt-6 text-base text-gray-600">Attach your own custom domain to your published
-                        projects or website on windframe</p>
+                    <h3 class="mt-6 text-2xl font-bold text-gray-900 sm:mt-10">Perjalanan Dan Harapan</h3>
+                    <p class="mt-6 text-base text-gray-600">buat kita, kelompok ini bukan cuma soal tugas, tapi juga wadah untuk tumbuh bersama, belajar menghadapi tantangan, dan bikin dampak positif. 🌟 </p>
                 </div>
             </div>
         </div>
