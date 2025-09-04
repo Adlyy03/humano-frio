@@ -11,7 +11,7 @@
    <header class="fixed top-0 left-0 w-full z-20">
   <div class="w-full px-6 py-4 flex justify-between items-center 
               bg-white/30 backdrop-blur-md text-gray-900 shadow-md">
-    <div class="text-2xl font-bold">GreenLeaf</div>
+    <div class="text-2xl font-bold">6</div>
     <nav class="space-x-6 text-sm font-medium">
       <a href="" class="hover:text-green-600">Home</a>
       <a href="anggota.html" class="hover:text-green-600">Anggota</a>
