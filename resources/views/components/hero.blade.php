@@ -35,12 +35,20 @@
         </div>
         
         <!-- Desktop Menu -->
+        <!-- Desktop Menu -->
         <div class="hidden md:flex items-center space-x-8">
-          <a class="text-white/80 hover:text-white">Home</a>
-          <a class="text-white/80 hover:text-white">About</a>
-          <a class="text-white/80 hover:text-white">Contact</a>
-          <a class="text-white/80 hover:text-white">Services</a>
+          <a class="text-white/80 hover:text-white" href="#">Home</a>
+          <a class="text-white/80 hover:text-white" href="#">About</a>
+          <a class="text-white/80 hover:text-white" href="#">Contact</a>
+          <a class="text-white/80 hover:text-white" href="#">Services</a>
+
+          <!-- Tombol Login -->
+          <a href="{{ route('admin.login') }}"
+            class="px-4 py-2 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition">
+            Login
+          </a>
         </div>
+
 
 
 
